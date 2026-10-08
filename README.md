@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/2gT6xeKtbSkAAAAC/snoopy-snoopywing.gif" width="75%" alt="Hello, my name is Samuel" />
+<img src="https://media1.tenor.com/m/2gT6xeKtbSkAAAAC/snoopy-snoopywing.gif" width="85%" alt="Hello, my name is Samuel" />
 
 <div id="toc">
   <ul align="center" style="list-style: none">
